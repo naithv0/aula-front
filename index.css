@@ -1,0 +1,12 @@
+.wrapper { 
+    display: flex
+}
+button { 
+    height: 30px
+}
+
+#listas { 
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap
+}
